@@ -25,6 +25,3 @@ The conference hotel is situated on a hill in the vicinity of the forest, near t
 
 ![Building B of the conference center](/images/photos/conference-center-building-B.jpg){:class="full-width"}
 *Building B of the conference center*
-
-![A room in the conference center](/images/photos/conference-center-room-in-main-building.jpg){:class="full-width"}
-*A 3-person room in the main building of the conference center*
