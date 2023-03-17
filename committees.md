@@ -6,10 +6,19 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Programme Committee
-
-* Jacek Starzyński
-
 # Organizing Comittee
 
-* Zuzanna Krawczyk
+> Chairman
+
+* Oksana Hoholyuk, Lviv Polytechnic National University, Ukraine
+* Jacek Starzyński, Warsaw University of Technology, Poland
+
+> Scientific Secretary
+
+* Bartosz Chaber, Warsaw University of Technology, Poland
+
+> Members
+
+* Zuzanna Krawczyk, Warsaw University of Technology, Poland
+* Radosław Roszczyk, Warsaw University of Technology, Poland
+* Wiktor Łodyga, Warsaw University of Technology, Poland
