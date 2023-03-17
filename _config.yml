@@ -29,8 +29,7 @@ defaults:
     values:
       layout: "team"
 
-remote_theme: zerostaticthemes/jekyll-serif-theme
-#remote_theme: https://github.com/bchaber/bchaber.github.io#cpee
+remote_theme: bchaber/jekyll-serif-theme
 
 plugins:
   - jekyll-environment-variables
