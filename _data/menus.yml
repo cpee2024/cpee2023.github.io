@@ -1,21 +1,24 @@
 main:
   - name: "About"
-    url: "/about/"
+    url: "/about"
     weight: 2
-  - name: "Venue"
-    url: "/venue/"
+  - name: "Submission"
+    url: "/submission"
     weight: 3
-  - name: "Committees"
-    url: "/committees/"
+  - name: "Venue"
+    url: "/venue"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Committees"
+    url: "/committees"
     weight: 5
+  - name: "Contact"
+    url: "/contact"
+    weight: 6
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
   - name: "Contact"
-    url: "/contact/"
+    url: "/contact"
     weight: 2
