@@ -20,8 +20,8 @@ intro_image_hide_on_mobile: false
 > Members
 
 * Z. Krawczyk-Borysiak – Warsaw University of Technology (Poland)
-* R. Roszczyk – Warsaw University of Technology (Poland)
 * W. Łodyga – Warsaw University of Technology (Poland)
+* R. Roszczyk – Warsaw University of Technology (Poland)
 
 # Program Committee
 
