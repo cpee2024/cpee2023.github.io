@@ -28,7 +28,7 @@ intro_image_hide_on_mobile: false
 * W. Łodyga – Warsaw University of Technology (Poland)
 * R. Roszczyk – Warsaw University of Technology (Poland)
 
-# Program Committee
+### Program Committee
 
 * M. Andriychuk – Lviv Polytechnic National University (Ukraine)
 * M. Benova – University of Zilina (Slovakia)
