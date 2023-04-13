@@ -8,7 +8,12 @@ intro_image_hide_on_mobile: false
 
 # Organizing Committee
 
-> Chairman
+> Honorary Chairmen
+
+* Yuriy Bobalo – Lviv Polytechnic National University (Ukraine)
+* Kazimierz Mikołajuk – Warsaw University of Technology (Poland)
+
+> Chairmen
 
 * Oksana Hoholyuk – Lviv Polytechnic National University (Ukraine)
 * Jacek Starzyński – Warsaw University of Technology (Poland)
