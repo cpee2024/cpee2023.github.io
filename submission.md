@@ -29,7 +29,7 @@ The early-bird fee is available untill *15/07/2023*.
 | Participation type    | Early-bird | Regular fee |
 |-----------------------|------------|-------------|
 | In-person participant | 500 EUR    | 550 EUR     |
-| On-line participant   |            | 250 EUR     |
+| Online participant    |            | 250 EUR     |
 |-----------------------|------------|-------------|
 
 The fee for in-person participation covers accomodation, coffee breaks,
