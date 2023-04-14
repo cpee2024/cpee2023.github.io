@@ -35,6 +35,7 @@ intro_image_hide_on_mobile: false
 * Yu. Bobalo – Lviv Polytechnic National University (Ukraine)
 * S. Bolkowski – Warsaw University of Technology (Poland)
 * K. Capova – University of Zilina (Slovakia)
+* B. Chaber – Warsaw University of Technology (Poland)
 * I. Doležel – University of West Bohemia (Czech Republic)
 * M. Dyvak – Ternopil National Economic University (Ukraine)
 * Y. Irzykowski – Wrocław University of Technology (Poland)
