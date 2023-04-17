@@ -56,7 +56,6 @@ intro_image_hide_on_mobile: false
 * I. Kuritnyk – University of Bielsko-Biala (Poland)
 * O. Kyrylenko – Ukrainian Academy of Sciences (Ukraine)
 * A. Lozynskyy – Lviv Polytechnic National University (Ukraine)
-* B. Mandziy – Lviv Polytechnic National University (Ukraine)
 * T. Markiewicz – Warsaw University of Technology (Poland)
 * M. Medykovskyy – Lviv Polytechnic National University (Ukraine)
 * A. Michalski – Warsaw University of Technology (Poland)
