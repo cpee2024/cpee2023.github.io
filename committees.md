@@ -20,13 +20,17 @@ intro_image_hide_on_mobile: false
 
 > Scientific Secretary
 
-* B. Chaber – Warsaw University of Technology (Poland)
+* Bartosz Chaber – Warsaw University of Technology (Poland)
 
 > Members
 
-* Z. Krawczyk-Borysiak – Warsaw University of Technology (Poland)
-* W. Łodyga – Warsaw University of Technology (Poland)
-* R. Roszczyk – Warsaw University of Technology (Poland)
+* Orest Hamola – Lviv Polytechnic National University (Ukraine)
+* Ivanna Vasylchyshyn – Lviv Polytechnic National University (Ukraine)
+* Serhiy Rendzinyak – Lviv Polytechnic National University (Ukraine)
+* Petro Stakhiv – Lviv Polytechnic National University (Ukraine)
+* Zuzanna Krawczyk-Borysiak – Warsaw University of Technology (Poland)
+* Wiktor Łodyga – Warsaw University of Technology (Poland)
+* Radosław Roszczyk – Warsaw University of Technology (Poland)
 
 ### Program Committee
 
