@@ -28,6 +28,7 @@ intro_image_hide_on_mobile: false
 * Ivanna Vasylchyshyn – Lviv Polytechnic National University (Ukraine)
 * Serhiy Rendzinyak – Lviv Polytechnic National University (Ukraine)
 * Petro Stakhiv – Lviv Polytechnic National University (Ukraine)
+* Volodymyr Maday – Lviv Polytechnic National University (Ukraine)
 * Zuzanna Krawczyk-Borysiak – Warsaw University of Technology (Poland)
 * Wiktor Łodyga – Warsaw University of Technology (Poland)
 * Radosław Roszczyk – Warsaw University of Technology (Poland)
