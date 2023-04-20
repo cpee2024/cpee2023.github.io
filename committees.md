@@ -77,7 +77,6 @@ intro_image_hide_on_mobile: false
 * J. Starzyński – Warsaw University of Technology (Poland)
 * P. Szczepaniak – Lodz University of Technology (Poland)
 * Ż. Świderska-Chadaj – Warsaw University of Technology (Poland)
-* M. Tadeusiewicz – Lodz University of Technology (Poland)
 * B. Ulrych – University of West Bohemia (Czech Republic)
 * S. Wincenciak – Warsaw University of Technology (Poland)
 * M. Wołoszyn – Gdańsk University of Technology (Poland)
