@@ -8,4 +8,5 @@ The conference is organized by the **Lviv Polytechnic National University, Ukrai
 in cooperation with:
 
 * University of West Bohemia, Czechia,
-* University of Žilina, Slovakia.
+* University of Žilina, Slovakia,
+* MESco Sp. z o. o. (ANSYS Channel partner).

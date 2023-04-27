@@ -108,6 +108,16 @@ svg.cover {
   }
 }
 
+img.s1x1{
+  width: 160px;
+  margin: 20px;
+}
+
+img.s1x2{
+  width: 360px;
+  margin: 20px;
+}
+
 img.full-width {
   border: 1px solid white;
   @include media-breakpoint-up(sm) {
