@@ -6,4 +6,4 @@ title: ""
 ![Warsaw University of Technology](/images/logo/pw.png){:class="s1x1"}
 ![University of West Bohemia](/images/logo/wb.png){:class="s1x1"}
 ![University of Žilina](/images/logo/uz.png){:class="s1x1"}
-![MESco](/images/logo/mesco.png){:class="s2x1"}
+![MESco](/images/logo/mesco.png){:class="s1x2"}
