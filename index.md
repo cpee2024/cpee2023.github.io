@@ -12,7 +12,7 @@ show_call_box: false
 
 We are thrilled to invite you to 24th conference on Computational Problems
 in Electrical Engineering. This year, the event will take place in Grybów,
-Poland.
+Poland. The conference will be held from **10.09.2023 to 13.09.2023**.
 
 # Important dates
 
