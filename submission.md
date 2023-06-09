@@ -16,10 +16,11 @@ The link to the conference system will be updated soon on this page.
 
 # Submission
 
-You are invited to submit a full paper (3-4 A4 pages in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)).
+You are invited to submit a paper (3-4 A4 pages in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)).
 Each submission will be evaluated by reviewers.
 
-The link to the conference system will be updated soon on this page.
+You can submit your paper after registration at https://indico.cern.ch/event/1266166/
+(use "Submit new abstract" option).
 
 # Payment
 
