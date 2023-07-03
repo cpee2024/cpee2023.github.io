@@ -16,7 +16,7 @@ Poland. The conference will be held from **10.09.2023 to 13.09.2023**.
 
 # Important dates
 
-* ~~~2023-07-01: Full paper submission deadline~~~
+* ~~2023-07-01: Full paper submission deadline~~
 * **2023-07-20: ⚠️ Full paper submission deadline (extended) ⚠️** 
 * 2023-07-15: Notification of acceptance
 * 2023-08-15: Final paper submission
