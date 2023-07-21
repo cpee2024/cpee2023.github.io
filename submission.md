@@ -24,7 +24,7 @@ After registering in the `indico.cern.ch` service you can register at our event,
 
 # Payment
 
-The early-bird fee is available untill *15/07/2023*.
+The early-bird fee is available untill *20/08/2023*.
 
 |-----------------------|------------|-------------|
 | Participation type    | Early-bird | Regular fee |
