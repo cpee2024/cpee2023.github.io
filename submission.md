@@ -16,7 +16,7 @@ There are three forms of presentation available:
 * an online, oral presentation using Microsoft Teams platform,
 * a poster presentation.
 
-Recommended poster size is A1 (594 x 841 mm): tools for attaching the papers will be provided by the organizers.
+Recommended poster size is A1 (594 x 841 mm): tools for attaching the posters will be provided by the organizers.
 
 The time-slot for in-person and online presentations is the same: 15&nbsp;minutes plus 5&nbsp;min. for a disscussion.
 
