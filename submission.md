@@ -8,6 +8,19 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
+# Presentation
+
+There are three forms of presentation available:
+
+* a in-person oral presentation at the conference,
+* an online, oral presentation using Microsoft Teams platform,
+* a poster presentation.
+
+Recommended poster size is A1 (594 x 841 mm): tools for attaching the papers will be provided by the organizers.
+The time-slot for in-person and online presentations is the same: 15 minutes plus 5 minutes for a disscussion.
+
+All slides, posters should be prepared in English language.
+
 # Registration
 
 In order to participate in our event you will have to register.
@@ -48,14 +61,4 @@ For the bank transfer please use the following data:
 - Address:
 Politechnika Warszawska, ul. Noakowskiego 18/20, 00-668 Warszawa
 - Account number (IBAN), payment in EUR: PL 04 1240 2092 9522 1042 0100 0000
-- Bank transfer title: CPEE 2023, the name of the participant
-
-# Presentation
-
-There are three forms of presentation available:
-
-* a in-person oral presentation at the conference,
-* an online, oral presentation using Microsoft Teams platform,
-* a poster presentation.
-
-All slides, posters should be prepared in English language.
+- Bank transfer title: CPEE 2023, the name of the participant.
