@@ -18,7 +18,7 @@ There are three forms of presentation available:
 
 Recommended poster size is A1 (594 x 841 mm): tools for attaching the papers will be provided by the organizers.
 
-The time-slot for in-person and online presentations is the same: 15&nbsp;min. plus 5~min. for a disscussion.
+The time-slot for in-person and online presentations is the same: 15&nbsp;minutes plus 5&nbsp;min. for a disscussion.
 
 All slides, posters should be prepared in English language.
 
