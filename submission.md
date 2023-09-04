@@ -24,9 +24,7 @@ All slides, posters should be prepared in English language.
 
 # Registration
 
-In order to participate in our event you will have to register.
-
-The link to the conference system will be updated soon on this page.
+In order to participate in our event you will have to register in [the conference system](https://indico.cern.ch/event/1266166/).
 
 # Submission
 
