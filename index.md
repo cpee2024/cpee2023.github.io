@@ -22,3 +22,7 @@ Poland. The conference will be held from **10.09.2023 to 13.09.2023**.
 * 2023-09-01: Final paper submission
 * 2023-09-10: Conference start!
 
+# Conference Programme
+
+The [detailed conference programme](https://cpee2023.iem.pw.edu.pl/assets/pdf/programme.pdf) for all sessions is available!
+
